@@ -1,0 +1,2 @@
+# GBSISdemos
+This document provides some demos of our GAN based speech inpainting system. Currently, this document only includes some 1-second long evaluation demos of GAN model for mask size from 10% to 40% in both time and frequency dimensions. More long speech demos of inpainting system will be updated soon, after Covid-19 pandemic control policies in Shenzhen, China  are adjusted. Because we have to work at home, and can not access company’s data system now, due to the Covid-19 pandemic control policies.
